@@ -1,3 +1,5 @@
+# How to Position Products
+
 ## How to Formulate a Positioning Statement
 
 For [who], [product] is the [category] that [benefit], unlike [alternative], because [reason to believe]. (Geoffrey Moore)
