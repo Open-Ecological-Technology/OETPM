@@ -22,7 +22,8 @@ For Open Ecological Technology, some possible categories our solutions are regen
 
 ## Benefit
 
-WIP
+Jobs-To-Be-Done
+WIP. Repairability. 
 
 ## Alternative
 
