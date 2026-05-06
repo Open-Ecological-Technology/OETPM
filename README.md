@@ -6,7 +6,7 @@ Adapting Product Marketing for Physical, Open, and Community-Centered Products
 
 ## PREFACE
 
-Traditional Product Marketing defines a strategic process of bringing a product to market, promoting it, and driving demand by defining positioning, messaging, and target audiences. It acts as the bridge between product development and sales, focusing on customer needs to ensure product-market fit, successful launches, and sustained adoption. However, many parts of this process are intended for a consumer-focused, profit-driven, rent-seeking relationship with customers and competitive and secrecy-based relationship with other organizations rather than cooperative. The information here will outline an approach that is intended for converting prosumer customers that is sustainability-driven, value-creating, and open. 
+Traditional Product Marketing defines a strategic process of bringing a product to market, promoting it, and driving demand by defining positioning, messaging, and target audiences. It acts as the bridge between product development and sales, focusing on customer needs to ensure product-market fit, successful launches, and sustained adoption. However, many parts of this process are intended for a consumer-focused, profit-driven, rent-seeking relationship with customers and competitive and secrecy-based relationship with other organizations rather than cooperative. The information here will outline an approach that is intended for converting prosumer customers that is sustainability-driven, value-creating, and open. OETPM adopts [DOF](https://github.com/dof-initiative) tooling to produce campaigns-as-models-as-code.
 
 ## SCOPE
 
